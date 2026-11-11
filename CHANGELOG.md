@@ -1,5 +1,8 @@
 # What's new in Build Until
 
+## 1.6.0 (November 11, 2026)
+- Your Key Box: keys never go in the chat. When your BB needs a key, a small private box opens in your own browser on your own computer. You paste the key there and tap Save, and it goes straight into your private secrets file. Setup now makes it for you, and every later step that needs a key uses it. Already set up? Say "set up my Key Box".
+
 ## 1.5.0 (November 11, 2026)
 - Get found on Google and in AI answers: every post, page and launch now starts with real question research, uses the answer-first template, adds schema and internal links, gets submitted to Google and Bing, and follows the 10 launch posts then 1 a week standard, with you as the author. Works for your clients' sites too. Say "set up my monthly SEO check" for a first-Monday report.
 

@@ -17,7 +17,7 @@ Your assistant installs Build Until, then walks you through setup one step at a 
 - `/build-until:setup`, the setup wizard. Stop anytime; say "keep going with my setup" to pick up where you left off.
 - `/build-until:move-me-in`, bring what's worth keeping over from ChatGPT, Gemini, Cowork and others.
 - `/build-until:update`, get the newest version now. Updates also arrive by themselves.
-- Skills: Start with Claude basics, get found (SEO + AI search), reels that stop the scroll, your integrator (decision rights, weekly Same Page check-in, monthly DEAL audit), weekly CEO scorecard, monthly CFO audit.
+- Skills: your Key Box (keys never go in the chat), Start with Claude basics, get found (SEO + AI search), reels that stop the scroll, your integrator (decision rights, weekly Same Page check-in, monthly DEAL audit), weekly CEO scorecard, monthly CFO audit.
 - Connectors for Let's Sit Down and In Writing, using your own keys, kept in your computer's secure credential store.
 - Scheduled task templates: morning brief, Same Page check-in, DEAL audit, SEO monthly check, CEO scorecard, CFO audit, Monday upgrade check.
 
