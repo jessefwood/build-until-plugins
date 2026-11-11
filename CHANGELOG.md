@@ -1,5 +1,8 @@
 # What's new in Build Until
 
+## 1.4.0 (November 11, 2026)
+- Reels that stop the scroll: ask for a reel, short or TikTok and your BB writes 3 hooks and picks one, cuts it to the right length, puts captions and the header in the safe spots in your brand color, runs a 10-point check before every export, writes the caption with one ask (send by default), suggests Trial Reels for new hooks, and checks how it did at 24 hours and 3 days.
+
 ## 1.3.0 (November 11, 2026)
 - Expert first: when you ask for something creative or strategic, your BB checks how the best experts do it, then says "I hear you," shows the best way, hands you a ready example and its pick, and asks you to approve or change it. Already set up as your integrator? Say "update my integrator" to add this rule.
 
