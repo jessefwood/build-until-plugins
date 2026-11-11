@@ -1,5 +1,8 @@
 # What's new in Build Until
 
+## 1.5.0 (November 11, 2026)
+- Get found on Google and in AI answers: every post, page and launch now starts with real question research, uses the answer-first template, adds schema and internal links, gets submitted to Google and Bing, and follows the 10 launch posts then 1 a week standard, with you as the author. Works for your clients' sites too. Say "set up my monthly SEO check" for a first-Monday report.
+
 ## 1.4.0 (November 11, 2026)
 - Reels that stop the scroll: ask for a reel, short or TikTok and your BB writes 3 hooks and picks one, cuts it to the right length, puts captions and the header in the safe spots in your brand color, runs a 10-point check before every export, writes the caption with one ask (send by default), suggests Trial Reels for new hooks, and checks how it did at 24 hours and 3 days.
 

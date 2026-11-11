@@ -10,5 +10,6 @@ The setup wizard offers these one at a time. For each one the student says yes t
 | monday-upgrade-check.md | Mondays 8:00 AM | Runs /build-until:update and says what's new |
 | same-page-weekly.md | Their chosen day (Sunday 6:00 PM default) | The integrator's 5-line Same Page check-in |
 | deal-audit-monthly.md | 1st of the month, 9:00 AM | The integrator's DEAL audit toward a 4-hour CEO week |
+| seo-monthly-check.md | First Monday of the month, 9:00 AM | The seo skill's monthly Search Console + AI mention check |
 
 Every task: reads first, drafts instead of sending, and never touches passwords, keys or payments.
