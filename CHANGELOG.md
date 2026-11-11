@@ -1,5 +1,8 @@
 # What's new in Build Until
 
+## 1.2.0 (November 11, 2026)
+- Your Claude, your integrator: say "be my integrator" (or /build-until:integrator). Your BB fills in who decides what and your 5 weekly numbers with you, then sets up a weekly 5-line Same Page check-in and a monthly cleanup that takes things off your plate, toward a 4-hour CEO week. New students get it during setup.
+
 ## 1.1.0 (November 11, 2026)
 - Set it up once: GitHub sign-in now covers every repository you'll ever make, so you never go back into GitHub settings. Every other connection gets the access that covers future projects too, and keys still never go in the chat.
 

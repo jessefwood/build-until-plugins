@@ -129,18 +129,22 @@ Their seat includes both. Their keys go into a form, never the chat.
 If they connected both in the Claude app, the plugin's own `sitdown` and `inwriting` servers will show as not connected in Claude Code's server list (`/mcp`). That's expected and harmless; tell them in one line so it doesn't worry them, and they can turn those two off there.
 4. Prove each: "Set up a Sit Down with me tomorrow at 3 PM" (show it, don't send invites without a yes), and "What does my In Writing account look like?"
 
-### 10. Scheduled tasks [scheduled]
+### 10. Your integrator [integrator]
+Use the `integrator` skill now. It makes you their integrator, the right hand who runs the day to day: it fills in their 5 weekly numbers and who decides what, one question at a time, saves INTEGRATOR.md, and sets up the weekly Same Page check-in and the monthly DEAL audit as scheduled tasks. Everyone gets this step, on every path. If they'd rather wait, mark it skipped and tell them they can say "be my integrator" anytime.
+
+### 11. Scheduled tasks [scheduled]
 Offer the starter set from `${CLAUDE_PLUGIN_ROOT}/templates/scheduled-tasks/` one at a time, with what each does and when it runs:
 - **Morning brief** (weekdays 7 AM): today's calendar, what needs them, drafts only.
 - **Weekly CEO scorecard** (Sunday evening): uses the `ceo-audit` skill.
 - **Monthly CFO audit** (1st of the month): uses the `cfo-audit` skill.
 - **Monday upgrade check** (Monday morning): runs `/build-until:update` so they always have the newest version.
+(The Same Page check-in and the DEAL audit were set up in the integrator step; don't offer them twice.)
 For each one they say yes to: if you have a scheduled task tool (like `create_scheduled_task`), create it with the template's prompt and schedule, in their name, and show it. If you don't, walk them through it: "Open the Claude app → click **Code** at the top → **Scheduled** in the left sidebar → **New task**," then give the prompt in a copy box and the schedule in plain words. Fill in the template's blanks (their time zone, their business name) from what you know; ask for anything missing, one question at a time.
 
-### 11. Move Me In (switchers only) [move-me-in]
+### 12. Move Me In (switchers only) [move-me-in]
 If they said yes to another AI in step 2, use the `move-me-in` skill now (or offer to do it later by saying "move me in"). Otherwise mark skipped.
 
-### 12. Done [done]
+### 13. Done [done]
 - Read back what's set up in five short lines or fewer, with their live page link.
 - Send a final `log_progress`: `Installer: setup complete. Page: <url>.`
 - Tell them the one next thing (from `my_build` if connected, otherwise "Open My Build at builduntil.com/build").
