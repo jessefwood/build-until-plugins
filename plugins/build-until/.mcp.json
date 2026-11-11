@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "sitdown": {
+      "type": "http",
+      "url": "https://letssitdown.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.sitdown_key}"
+      }
+    },
+    "inwriting": {
+      "type": "http",
+      "url": "https://letsgetitinwriting.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.inwriting_key}"
+      }
+    }
+  }
+}

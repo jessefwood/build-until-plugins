@@ -1,0 +1,29 @@
+{
+  "name": "build-until",
+  "version": "1.0.0",
+  "description": "The Build Until Installer for Build On Purpose students: setup wizard, Move Me In, Start with Claude basics, CEO and CFO audits, Sit Down and In Writing connectors, and scheduled task templates.",
+  "author": {
+    "name": "Build Until",
+    "url": "https://www.builduntil.com"
+  },
+  "homepage": "https://www.builduntil.com/build",
+  "repository": "https://github.com/jessefwood/build-until-plugins",
+  "license": "MIT",
+  "keywords": ["build-until", "build-on-purpose", "setup", "onboarding"],
+  "userConfig": {
+    "sitdown_key": {
+      "type": "string",
+      "title": "Let's Sit Down key",
+      "description": "Your own key from letssitdown.com/account/ai (Make my key). Stored in your computer's secure credential store. Leave blank if you connected Sit Down in the Claude app instead.",
+      "sensitive": true,
+      "required": false
+    },
+    "inwriting_key": {
+      "type": "string",
+      "title": "In Writing key",
+      "description": "Your own key from letsgetitinwriting.com/account#ai (Make a key). Stored in your computer's secure credential store. Leave blank if you connected In Writing in the Claude app instead.",
+      "sensitive": true,
+      "required": false
+    }
+  }
+}

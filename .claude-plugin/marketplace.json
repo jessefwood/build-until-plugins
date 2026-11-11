@@ -1,0 +1,20 @@
+{
+  "name": "build-until",
+  "owner": {
+    "name": "Build Until",
+    "url": "https://www.builduntil.com"
+  },
+  "metadata": {
+    "description": "The Build Until Installer: one paste in the Claude app's Code tab sets up a Build On Purpose student's AI brand builder.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "build-until",
+      "source": "./plugins/build-until",
+      "description": "Setup wizard, Move Me In, Start with Claude basics, CEO and CFO audits, Sit Down and In Writing connectors, and scheduled task templates for Build On Purpose students.",
+      "category": "productivity",
+      "homepage": "https://www.builduntil.com/build"
+    }
+  ]
+}
